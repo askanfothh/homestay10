@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title> Portfolio on Hoa Hong Homestay</title>
+    <link>https://homenkitchen.com.vn/vi/portfolio/</link>
+    <description>Recent content in  Portfolio on Hoa Hong Homestay</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>vi-vi</language>
+    <lastBuildDate>Sat, 07 Jul 2018 15:45:06 +0600</lastBuildDate>
+    
+	<atom:link href="https://homenkitchen.com.vn/vi/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title> Portfolio</title>
+      <link>https://homenkitchen.com.vn/vi/portfolio/_index.fr/</link>
+      <pubDate>Sat, 07 Jul 2018 15:45:06 +0600</pubDate>
+      
+      <guid>https://homenkitchen.com.vn/vi/portfolio/_index.fr/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
